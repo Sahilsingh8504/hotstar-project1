@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: hotstar-container
-        image: aseemakram19/hotstar
+        image: ryzenop/hotstar
         ports:
         - containerPort: 3000
 ---
